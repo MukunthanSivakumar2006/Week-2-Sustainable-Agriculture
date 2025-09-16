@@ -1,6 +1,3 @@
-"""
-EDA Script for Crop Recommendation System - Week 2
-"""
 
 import pandas as pd
 import matplotlib.pyplot as plt
